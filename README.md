@@ -80,28 +80,9 @@ Here is the curriculum covered in these notes. Each lesson is a link to the corr
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/YONKO-SID/C-notes.git
     ```
 2.  **Navigate the lessons:** Start with Lesson 1 and work your way through the material.
 3.  **Do the homework:** The best way to learn is by doing. Compile and run the examples, and complete the homework projects for each lesson.
+4. I have already solved most of the homework with comments and my mistakes you will find in another repo
 
-## My Review of the Notes
-
-After a thorough review, I find these notes to be of high quality. Here's a brief summary:
-
-*   **Strengths:**
-    *   **Comprehensive Coverage:** The notes cover all the essential topics for a beginner to get a solid foundation in C.
-    *   **Clear Explanations:** Concepts are explained clearly and concisely.
-    *   **Practical Focus:** The inclusion of homework and DSA links makes the material very practical and connects theory to application.
-    *   **Good Structure:** The progression from basic syntax to more complex topics like pointers and file I/O is logical and easy to follow.
-
-*   **Suggestions for Improvement:**
-    *   **Add a "Common Pitfalls" section** to some lessons (e.g., the difference between `=` and `==`, or the importance of `break` in a `switch`).
-    *   **Expand on Debugging:** A small section on basic debugging techniques (like using a debugger or `printf` debugging) could be very helpful for beginners.
-    *   **More on Header Files:** A lesson on creating custom header files (`.h`) to accompany `.c` files would be a great addition for teaching modular programming.
-
-Overall, this is an excellent resource for anyone starting their C programming journey.
-
----
-
-Happy Coding!
