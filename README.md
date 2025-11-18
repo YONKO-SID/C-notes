@@ -84,5 +84,5 @@ Here is the curriculum covered in these notes. Each lesson is a link to the corr
     ```
 2.  **Navigate the lessons:** Start with Lesson 1 and work your way through the material.
 3.  **Do the homework:** The best way to learn is by doing. Compile and run the examples, and complete the homework projects for each lesson.
-4. I have already solved most of the homework with comments and my mistakes you will find in another repo
+4. I have already solved most of the homework with comments and my mistakes you can find that [here](/https://github.com/YONKO-SID/C-notes-programs).
 
